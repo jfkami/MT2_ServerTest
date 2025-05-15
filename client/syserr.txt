@@ -1,0 +1,30 @@
+0601 12:44:04756 :: Traceback (most recent call last):
+
+0601 12:44:04756 ::   File "ui.py", line 1302, in CallEvent
+
+0601 12:44:04756 ::   File "ui.py", line 166, in __call__
+
+0601 12:44:04756 ::   File "ui.py", line 148, in __call__
+
+0601 12:44:04756 ::   File "uiSystemOption.py", line 124, in __OnClickTilingModeCPUButton
+
+0601 12:44:04756 :: AttributeError
+0601 12:44:04756 :: : 
+0601 12:44:04756 :: 'module' object has no attribute 'SYSTEM_OPTION_CPU_TILING_1'
+0601 12:44:04756 :: 
+
+0601 12:44:06207 :: Traceback (most recent call last):
+
+0601 12:44:06207 ::   File "ui.py", line 1302, in CallEvent
+
+0601 12:44:06207 ::   File "ui.py", line 166, in __call__
+
+0601 12:44:06207 ::   File "ui.py", line 148, in __call__
+
+0601 12:44:06208 ::   File "uiSystemOption.py", line 136, in __OnClickTilingApplyButton
+
+0601 12:44:06208 :: AttributeError
+0601 12:44:06208 :: : 
+0601 12:44:06208 :: 'module' object has no attribute 'SYSTEM_OPTION_TILING_EXIT'
+0601 12:44:06208 :: 
+
